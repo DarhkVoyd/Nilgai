@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+	"lib": ["esnext", "dom", "dom.iterable"],
+	"module": "ES6",
+	"target": "ES6",
+	"moduleResolution": "node",
+	"noEmitOnError": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["chrome-types"]
+  }
+}

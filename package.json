@@ -1,0 +1,21 @@
+{
+  "name": "Nilgai",
+  "version": "1.0.0",
+  "description": "Bored of filling semester feedback form? I have come to rescue!",
+  "private": "true",
+  "scripts": {
+    "dev": "webpack --watch --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "darhkvoyd",
+  "license": "MIT",
+  "devDependencies": {
+    "chrome-types": "^0.1.263",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^12.0.2",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
